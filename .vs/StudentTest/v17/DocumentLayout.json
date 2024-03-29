@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pkush\\Desktop\\web technology\\Assignment3\\StudentTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E736F6D-D2CA-4F6B-A123-30FA372C2FBF}|StudentTest\\StudentTest.csproj|c:\\users\\pkush\\desktop\\web technology\\assignment3\\studenttest\\studenttest\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E736F6D-D2CA-4F6B-A123-30FA372C2FBF}|StudentTest\\StudentTest.csproj|solutionrelative:studenttest\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E736F6D-D2CA-4F6B-A123-30FA372C2FBF}|StudentTest\\StudentTest.csproj|c:\\users\\pkush\\desktop\\web technology\\assignment3\\studenttest\\studenttest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E736F6D-D2CA-4F6B-A123-30FA372C2FBF}|StudentTest\\StudentTest.csproj|solutionrelative:studenttest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E736F6D-D2CA-4F6B-A123-30FA372C2FBF}|StudentTest\\StudentTest.csproj|c:\\users\\pkush\\desktop\\web technology\\assignment3\\studenttest\\studenttest\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E736F6D-D2CA-4F6B-A123-30FA372C2FBF}|StudentTest\\StudentTest.csproj|solutionrelative:studenttest\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E736F6D-D2CA-4F6B-A123-30FA372C2FBF}|StudentTest\\StudentTest.csproj|c:\\users\\pkush\\desktop\\web technology\\assignment3\\studenttest\\studenttest\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E736F6D-D2CA-4F6B-A123-30FA372C2FBF}|StudentTest\\StudentTest.csproj|solutionrelative:studenttest\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E736F6D-D2CA-4F6B-A123-30FA372C2FBF}|StudentTest\\StudentTest.csproj|c:\\users\\pkush\\desktop\\web technology\\assignment3\\studenttest\\studenttest\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E736F6D-D2CA-4F6B-A123-30FA372C2FBF}|StudentTest\\StudentTest.csproj|solutionrelative:studenttest\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E736F6D-D2CA-4F6B-A123-30FA372C2FBF}|StudentTest\\StudentTest.csproj|c:\\users\\pkush\\desktop\\web technology\\assignment3\\studenttest\\studenttest\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E736F6D-D2CA-4F6B-A123-30FA372C2FBF}|StudentTest\\StudentTest.csproj|solutionrelative:studenttest\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E736F6D-D2CA-4F6B-A123-30FA372C2FBF}|StudentTest\\StudentTest.csproj|c:\\users\\pkush\\desktop\\web technology\\assignment3\\studenttest\\studenttest\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E736F6D-D2CA-4F6B-A123-30FA372C2FBF}|StudentTest\\StudentTest.csproj|solutionrelative:studenttest\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E736F6D-D2CA-4F6B-A123-30FA372C2FBF}|StudentTest\\StudentTest.csproj|c:\\users\\pkush\\desktop\\web technology\\assignment3\\studenttest\\studenttest\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E736F6D-D2CA-4F6B-A123-30FA372C2FBF}|StudentTest\\StudentTest.csproj|solutionrelative:studenttest\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E736F6D-D2CA-4F6B-A123-30FA372C2FBF}|StudentTest\\StudentTest.csproj|c:\\users\\pkush\\desktop\\web technology\\assignment3\\studenttest\\studenttest\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E736F6D-D2CA-4F6B-A123-30FA372C2FBF}|StudentTest\\StudentTest.csproj|solutionrelative:studenttest\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E736F6D-D2CA-4F6B-A123-30FA372C2FBF}|StudentTest\\StudentTest.csproj|c:\\users\\pkush\\desktop\\web technology\\assignment3\\studenttest\\studenttest\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E736F6D-D2CA-4F6B-A123-30FA372C2FBF}|StudentTest\\StudentTest.csproj|solutionrelative:studenttest\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E736F6D-D2CA-4F6B-A123-30FA372C2FBF}|StudentTest\\StudentTest.csproj|c:\\users\\pkush\\desktop\\web technology\\assignment3\\studenttest\\studenttest\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E736F6D-D2CA-4F6B-A123-30FA372C2FBF}|StudentTest\\StudentTest.csproj|solutionrelative:studenttest\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E736F6D-D2CA-4F6B-A123-30FA372C2FBF}|StudentTest\\StudentTest.csproj|c:\\users\\pkush\\desktop\\web technology\\assignment3\\studenttest\\studenttest\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E736F6D-D2CA-4F6B-A123-30FA372C2FBF}|StudentTest\\StudentTest.csproj|solutionrelative:studenttest\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E736F6D-D2CA-4F6B-A123-30FA372C2FBF}|StudentTest\\StudentTest.csproj|c:\\users\\pkush\\desktop\\web technology\\assignment3\\studenttest\\studenttest\\migrations\\20240327194800_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E736F6D-D2CA-4F6B-A123-30FA372C2FBF}|StudentTest\\StudentTest.csproj|solutionrelative:studenttest\\migrations\\20240327194800_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E736F6D-D2CA-4F6B-A123-30FA372C2FBF}|StudentTest\\StudentTest.csproj|c:\\users\\pkush\\desktop\\web technology\\assignment3\\studenttest\\studenttest\\migrations\\20240329061842_addtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E736F6D-D2CA-4F6B-A123-30FA372C2FBF}|StudentTest\\StudentTest.csproj|solutionrelative:studenttest\\migrations\\20240329061842_addtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\pkush\\Desktop\\web technology\\Assignment3\\StudentTest\\StudentTest\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "StudentTest\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\pkush\\Desktop\\web technology\\Assignment3\\StudentTest\\StudentTest\\Models\\Cart.cs",
+              "RelativeToolTip": "StudentTest\\Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T16:11:39.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartsController.cs",
+              "DocumentMoniker": "C:\\Users\\pkush\\Desktop\\web technology\\Assignment3\\StudentTest\\StudentTest\\Controllers\\CartsController.cs",
+              "RelativeDocumentMoniker": "StudentTest\\Controllers\\CartsController.cs",
+              "ToolTip": "C:\\Users\\pkush\\Desktop\\web technology\\Assignment3\\StudentTest\\StudentTest\\Controllers\\CartsController.cs",
+              "RelativeToolTip": "StudentTest\\Controllers\\CartsController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAuwGUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T15:45:00.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\pkush\\Desktop\\web technology\\Assignment3\\StudentTest\\StudentTest\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "StudentTest\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\pkush\\Desktop\\web technology\\Assignment3\\StudentTest\\StudentTest\\Models\\Order.cs",
+              "RelativeToolTip": "StudentTest\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T15:14:23.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\pkush\\Desktop\\web technology\\Assignment3\\StudentTest\\StudentTest\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "StudentTest\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\pkush\\Desktop\\web technology\\Assignment3\\StudentTest\\StudentTest\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "StudentTest\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAuwFgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T14:45:27.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\pkush\\Desktop\\web technology\\Assignment3\\StudentTest\\StudentTest\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "StudentTest\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\pkush\\Desktop\\web technology\\Assignment3\\StudentTest\\StudentTest\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "StudentTest\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T14:12:47.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\pkush\\Desktop\\web technology\\Assignment3\\StudentTest\\StudentTest\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "StudentTest\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\pkush\\Desktop\\web technology\\Assignment3\\StudentTest\\StudentTest\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "StudentTest\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T06:43:34.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\pkush\\Desktop\\web technology\\Assignment3\\StudentTest\\StudentTest\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "StudentTest\\Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\Users\\pkush\\Desktop\\web technology\\Assignment3\\StudentTest\\StudentTest\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "StudentTest\\Controllers\\CommentsController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAowGUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T16:22:22.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\pkush\\Desktop\\web technology\\Assignment3\\StudentTest\\StudentTest\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "StudentTest\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\pkush\\Desktop\\web technology\\Assignment3\\StudentTest\\StudentTest\\Models\\Comment.cs",
+              "RelativeToolTip": "StudentTest\\Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T16:31:32.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\pkush\\Desktop\\web technology\\Assignment3\\StudentTest\\StudentTest\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StudentTest\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\pkush\\Desktop\\web technology\\Assignment3\\StudentTest\\StudentTest\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StudentTest\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T06:38:26.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pkush\\Desktop\\web technology\\Assignment3\\StudentTest\\StudentTest\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StudentTest\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\pkush\\Desktop\\web technology\\Assignment3\\StudentTest\\StudentTest\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "StudentTest\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T06:09:43.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240329061842_addTables.cs",
+              "DocumentMoniker": "C:\\Users\\pkush\\Desktop\\web technology\\Assignment3\\StudentTest\\StudentTest\\Migrations\\20240329061842_addTables.cs",
+              "RelativeDocumentMoniker": "StudentTest\\Migrations\\20240329061842_addTables.cs",
+              "ToolTip": "C:\\Users\\pkush\\Desktop\\web technology\\Assignment3\\StudentTest\\StudentTest\\Migrations\\20240329061842_addTables.cs",
+              "RelativeToolTip": "StudentTest\\Migrations\\20240329061842_addTables.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T06:18:43.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\pkush\\Desktop\\web technology\\Assignment3\\StudentTest\\StudentTest\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "StudentTest\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\pkush\\Desktop\\web technology\\Assignment3\\StudentTest\\StudentTest\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "StudentTest\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T06:07:10.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240327194800_init.cs",
+              "DocumentMoniker": "C:\\Users\\pkush\\Desktop\\web technology\\Assignment3\\StudentTest\\StudentTest\\Migrations\\20240327194800_init.cs",
+              "RelativeDocumentMoniker": "StudentTest\\Migrations\\20240327194800_init.cs",
+              "ToolTip": "C:\\Users\\pkush\\Desktop\\web technology\\Assignment3\\StudentTest\\StudentTest\\Migrations\\20240327194800_init.cs",
+              "RelativeToolTip": "StudentTest\\Migrations\\20240327194800_init.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T06:07:03.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\pkush\\Desktop\\web technology\\Assignment3\\StudentTest\\StudentTest\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentTest\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\pkush\\Desktop\\web technology\\Assignment3\\StudentTest\\StudentTest\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentTest\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAGQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T05:21:30.265Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
